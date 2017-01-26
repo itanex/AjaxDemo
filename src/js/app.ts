@@ -20,7 +20,6 @@ $('#data')
 
             words.forEach(function(word){
                 $elm.append(`<li>${word}</li>`);
-            })
-
-        })
+            });
+        });
     });
