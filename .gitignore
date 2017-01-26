@@ -1,0 +1,11 @@
+
+# Exclude Package Manager folders
+node_modules/
+src/lib/
+
+# Exclude NPM log files
+npm-*.log
+
+# Exclude generated JS files and maps
+src/**/*.js
+src/**/*.js.map
